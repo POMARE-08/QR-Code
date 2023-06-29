@@ -1,0 +1,37 @@
+body{
+  background: rgb(190, 234, 248);
+}
+
+main {
+  margin: auto;
+  background: white;
+  border-radius: 5px;
+  text-align: center;
+  width: 400px;
+
+}
+
+img {
+  border-radius: 5px;
+  margin-top: 10px;
+  height: 350px;
+  width: 350px;
+}
+
+.attribution { 
+  font-size: 11px; 
+  text-align: center; 
+ 
+}
+
+.attribution a { 
+  color: hsl(228, 45%, 44%); 
+}
+
+main p {
+  margin: auto;
+  width: 60%;
+  font-size: 15px;
+  line-height: 2;
+}
+
